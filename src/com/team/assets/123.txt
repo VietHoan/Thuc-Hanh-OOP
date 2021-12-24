@@ -1,0 +1,5 @@
+1&1&1&1&1&111&C:\Users\lehoa\IdeaProjects\AppCuaHang_Swing\src\com\team\assets\ic_photo_size_select_actual.png
+1111111111&1&1&1&1&1&C:\Users\lehoa\IdeaProjects\AppCuaHang_Swing\src\com\team\assets\ic_photo_size_select_actual.png
+3&3&3&3&3&3&C:\Users\lehoa\IdeaProjects\AppCuaHang_Swing\src\com\team\assets\ic_photo_size_select_actual.png
+3213&123&123&123&123&12313&C:\Users\lehoa\OneDrive\Pictures\Bo.png
+12313&213213&32132&31232&23123&123213&C:\Users\lehoa\IdeaProjects\AppCuaHang_Swing\src\com\team\assets\ic_photo_size_select_actual.png
